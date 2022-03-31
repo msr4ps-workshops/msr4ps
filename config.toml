@@ -1,0 +1,78 @@
+####### This is an EXAMPLE config file!!
+####### Changes made here will not effect demo site
+
+languageCode = "en-us"
+title = "MSR4P&S"
+baseURL = "https://msr4ps-workshops.github.io"
+theme = "hugo-html5up-alpha"
+disqusShortname = ""
+themesDir = "themes"
+
+
+[params]
+  description = "International Workshop on Mining Software Repositories Applications for Privacy and Security"
+  images = [""]
+  author = ""
+  copyright = "© MSR4P&S. All rights reserved."
+  design = ""
+  mainSections = ["blog"]
+  menuTitle = ["VERSION 2022"]
+
+
+
+### Footer Social Media Links ###
+#[[params.share]]
+#title = "facebook"
+#icon = "fa-facebook-f" # fontawesome icons https://fontawesome.com/icons?d=gallery&s=brands
+#link = "https://www.facebook.com/"
+
+[[params.share]]
+title = "twitter"
+icon = "fa-twitter"
+link = "https://twitter.com/"
+
+[[params.share]]
+title = "github"
+icon = "fa-github"
+link = "https://www.github.com/"
+
+
+
+
+### For Pages the .RelPermalink must match the menu .URL
+### For sections the name/directory must match the menu .Identifier
+[menu]
+  [[menu.main]]
+    identifier = "msr4ps2022"
+    name = "MSR4P&S 2022"
+    url = "/msr4ps2022/"
+    weight = 20
+
+
+  [[menu.main]]
+    identifier = "people"
+    name = "People"
+    url = "/people/"
+    weight = 30
+
+
+  [[menu.main]]
+    identifier = "publications"
+    name = "Publications"
+    url = "/publications/"
+    weight = 40
+
+
+
+  [[menu.main]]
+    identifier = "workshops"
+    name = "Past Editions"
+    url = ""
+    weight = 50
+
+   [[menu.main]]
+    identifier = "dropping"
+    parent = "workshops"
+    name = "MSR4P&S 2022"
+    url = "/msr4ps2022/"
+    weight = 1

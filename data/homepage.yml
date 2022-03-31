@@ -1,0 +1,77 @@
+### Banner ###
+banner:
+  enable: true
+  image: 'images/banner.jpg'
+  title: "MSR4P&S"
+  content: "" # Change this if you want something other then the site description
+  buttons:
+    - title: "SUBMIT"
+      link: "#"
+      class: "primary"
+    - title: "CURRENT EDITION"
+      link: "/msr4ps2022/"
+
+
+
+### Highlight ###
+highlight:
+  enable: true
+  header: "Official website of the MSR4P&S International Workshop on Mining Software Repositories Applications for Privacy and Security"
+  content: "In this website you can find all information related to MSR4P&S, its steering team, links to the current and previous editions, 
+  published papers and related projects.
+  <br /><br />
+  The current version of MSR4P&S is <a href='/msr4ps2022/' target='_blank'>MSR4P&S 2022</a>"
+  image: ""
+
+
+### Generic ###
+generic:
+  enable: false
+  header: "asdasdasd"
+  content: "asdasdasd"
+
+
+
+
+### Features ###
+features:
+  enable: false
+  rows:
+    - items:
+      - title: "Magna etiam"
+        icon: "fa-bolt"
+        accent: "accent2" #accent values are 1-8
+        content: "Integer volutpat ante et accumsan commophasellus sed aliquam feugiat lorem aliquet ut enim rutrum phasellus iaculis accumsan dolore magna aliquam veroeros."
+      - title: "Ipsum dolor"
+        icon: "fa-chart-area"
+        accent: "accent3" #accent values are 1-8
+        content: "Integer volutpat ante et accumsan commophasellus sed aliquam feugiat lorem aliquet ut enim rutrum phasellus iaculis accumsan dolore magna aliquam veroeros."
+    - items:
+        - title: "Sed feugiat"
+          icon: "fa-cloud"
+          accent: "accent4" #accent values are 1-8
+          content: "Integer volutpat ante et accumsan commophasellus sed aliquam feugiat lorem aliquet ut enim rutrum phasellus iaculis accumsan dolore magna aliquam veroeros."
+        - title: "Enim phasellus"
+          icon: "fa-lock"
+          accent: "accent5" #accent values are 1-8
+          content: "Integer volutpat ante et accumsan commophasellus sed aliquam feugiat lorem aliquet ut enim rutrum phasellus iaculis accumsan dolore magna aliquam veroeros."
+
+
+
+
+
+### Blog ###
+blog:
+  enable: false
+  # Leave header text blank to remove entire <section>
+  header: "Recent Posts"
+  buttonText: "Read More"
+  postCount: 2
+
+
+
+### Call to Action ###
+cta:
+  enable: false
+  header: "Sign up for beta access"
+  content: "Blandit varius ut praesent nascetur eu penatibus nisi risus faucibus nunc."

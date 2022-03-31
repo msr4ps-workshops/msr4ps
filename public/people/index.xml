@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>People on MSR4P&amp;S</title>
+    <link>https://msr4ps-workshops.github.io/people/</link>
+    <description>Recent content in People on MSR4P&amp;S</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://msr4ps-workshops.github.io/people/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>People</title>
+      <link>https://msr4ps-workshops.github.io/people/images/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://msr4ps-workshops.github.io/people/images/</guid>
+      <description>Organisation Committee Members The MSR2P&amp;amp;S organization committee organizes the individual workshops and takes care of attracting relevant and interesting publications. We thank the current and former organization committee members for support of MSR2P:
+Dr Melina Vidoni is a lecturer at the Australian National University, Australia. Her main research interests are mining software repositories, technical debt, software development, and empirical software engineering when applied to data science and scientific software. She graduated from Universidad Tecnologica Nacional as an Information Systems Engineer, and received her Ph.</description>
+    </item>
+    
+    <item>
+      <title>Text</title>
+      <link>https://msr4ps-workshops.github.io/people/pcmembers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://msr4ps-workshops.github.io/people/pcmembers/</guid>
+      <description>Program Committee Members MSR4P&amp;amp;S would not be possible without the supporting expertise of its current and former program committee members. Thank you all! The full list of program committee members of each edition of the MSR4P&amp;amp;S workshop is available in its corresponding web page here.</description>
+    </item>
+    
+  </channel>
+</rss>
