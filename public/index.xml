@@ -2,120 +2,120 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>MSR4P&amp;S</title>
-    <link>https://msr4ps-workshops.github.io/</link>
+    <link>https://msr4ps.netlify.app/</link>
     <description>Recent content on MSR4P&amp;S</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 15 Aug 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://msr4ps-workshops.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 15 Aug 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://msr4ps.netlify.app/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>People</title>
-      <link>https://msr4ps-workshops.github.io/people/images/</link>
+      <link>https://msr4ps.netlify.app/people/images/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://msr4ps-workshops.github.io/people/images/</guid>
+      <guid>https://msr4ps.netlify.app/people/images/</guid>
       <description>Organisation Committee Members The MSR2P&amp;amp;S organization committee organizes the individual workshops and takes care of attracting relevant and interesting publications. We thank the current and former organization committee members for support of MSR2P:
 Dr Melina Vidoni is a lecturer at the Australian National University, Australia. Her main research interests are mining software repositories, technical debt, software development, and empirical software engineering when applied to data science and scientific software. She graduated from Universidad Tecnologica Nacional as an Information Systems Engineer, and received her Ph.</description>
     </item>
     
     <item>
       <title>Text</title>
-      <link>https://msr4ps-workshops.github.io/elements/text/</link>
+      <link>https://msr4ps.netlify.app/elements/text/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://msr4ps-workshops.github.io/elements/text/</guid>
+      <guid>https://msr4ps.netlify.app/elements/text/</guid>
       <description>Text This is bold and this is strong. This is italic and this is emphasized. This is superscript text and this is subscript text. This is underlined and this is code: for (;;) { ... }. Finally, this is a link.
  Heading with a Subtitle Lorem ipsum dolor sit amet nullam id egestas urna aliquam Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet.</description>
     </item>
     
     <item>
       <title>Theme &amp; Goals</title>
-      <link>https://msr4ps-workshops.github.io/msr4ps2022/theme/</link>
+      <link>https://msr4ps.netlify.app/msr4ps2022/theme/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://msr4ps-workshops.github.io/msr4ps2022/theme/</guid>
+      <guid>https://msr4ps.netlify.app/msr4ps2022/theme/</guid>
       <description>Theme &amp;amp; Goals The last decades have put Privacy and Security (P&amp;amp;S) in the spotlight of information technology as data breaches and cyberattacks have spiked globally. Still, P&amp;amp;S are often afterthoughts in software development as their benefits are sometimes difficult to demonstrate and their costs hard to justify [6,8]. However, such technical debt is becoming hard to sustain as new legal frameworks, such as the EU General Data Protection Regulation (GDPR), demand companies to incorporate P&amp;amp;S features (e.</description>
     </item>
     
     <item>
       <title>Submission Guidelines</title>
-      <link>https://msr4ps-workshops.github.io/msr4ps2022/call/</link>
+      <link>https://msr4ps.netlify.app/msr4ps2022/call/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://msr4ps-workshops.github.io/msr4ps2022/call/</guid>
+      <guid>https://msr4ps.netlify.app/msr4ps2022/call/</guid>
       <description>Submission Guidelines Workshop papers must follow the ESEM/FSE 2022 Format and Submission Guidelines. The workshop follows a double-blind peer review process, aligned with ESEC/FSE&amp;rsquo;s Double-Blind Review Process&#39; policies. Papers submitted must not reveal the authors’ identities in any way, omitting the names from the submission and referring to self-citations in the third person. The only exception will be dataset and tools papers, which will employ an optional single-blind review process.</description>
     </item>
     
     <item>
       <title>Text</title>
-      <link>https://msr4ps-workshops.github.io/people/pcmembers/</link>
+      <link>https://msr4ps.netlify.app/people/pcmembers/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://msr4ps-workshops.github.io/people/pcmembers/</guid>
+      <guid>https://msr4ps.netlify.app/people/pcmembers/</guid>
       <description>Program Committee Members MSR4P&amp;amp;S would not be possible without the supporting expertise of its current and former program committee members. Thank you all! The full list of program committee members of each edition of the MSR4P&amp;amp;S workshop is available in its corresponding web page here.</description>
     </item>
     
     <item>
       <title>Program Committee</title>
-      <link>https://msr4ps-workshops.github.io/msr4ps2022/program/</link>
+      <link>https://msr4ps.netlify.app/msr4ps2022/program/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://msr4ps-workshops.github.io/msr4ps2022/program/</guid>
+      <guid>https://msr4ps.netlify.app/msr4ps2022/program/</guid>
       <description>Program Committee The Organising Committee thanks the following generous individuals below:
    Reviewer Organisation Twitter    </description>
     </item>
     
     <item>
       <title>Table</title>
-      <link>https://msr4ps-workshops.github.io/elements/table/</link>
+      <link>https://msr4ps.netlify.app/elements/table/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://msr4ps-workshops.github.io/elements/table/</guid>
+      <guid>https://msr4ps.netlify.app/elements/table/</guid>
       <description>Table Default    NAME DESCRIPTION PRICE     Item 1 Ante turpis integer aliquet porttitor. 29.99   Item 2 Vis ac commodo adipiscing arcu aliquet. 19.99   Item 3 Morbi faucibus arcu accumsan lorem. 29.99   Item 4 Vitae integer tempus condimentum. 19.99   Item 5 Ante turpis integer aliquet porttitor. 29.99     100.00    </description>
     </item>
     
     <item>
       <title>Buttons</title>
-      <link>https://msr4ps-workshops.github.io/elements/buttons/</link>
+      <link>https://msr4ps.netlify.app/elements/buttons/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://msr4ps-workshops.github.io/elements/buttons/</guid>
+      <guid>https://msr4ps.netlify.app/elements/buttons/</guid>
       <description>Buttons PRIMARYDEFAULT LARGEDEFAULTSMALL FITFIT FIT &amp;#43; SMALLFIT &amp;#43; SMALL ICONICON PRIMARYDEFAULT </description>
     </item>
     
     <item>
       <title>Workshop Program</title>
-      <link>https://msr4ps-workshops.github.io/msr4ps2022/image/</link>
+      <link>https://msr4ps.netlify.app/msr4ps2022/image/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://msr4ps-workshops.github.io/msr4ps2022/image/</guid>
+      <guid>https://msr4ps.netlify.app/msr4ps2022/image/</guid>
       <description>Workshop Program Times will be Singapore Time (GMT+8)
    Time Title Who     9:00am Welcome MSR2P&amp;amp;S Organisers   9:15am Keynote 1 TBD   10:00am Session 1: Regular Papers    11:30am Discussion: Regular Papers    12:00pm Lunch    1:30am Keynote 2 TBD   2:15pm Session 2: Short Papers    3:15pm Discussion: Short Papers    3:45pm End of MSR2P&amp;amp;S MSR2P&amp;amp;S Organisers     Keynote Title Fringilla nisl.</description>
     </item>
     
     <item>
       <title>Form</title>
-      <link>https://msr4ps-workshops.github.io/elements/form/</link>
+      <link>https://msr4ps.netlify.app/elements/form/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://msr4ps-workshops.github.io/elements/form/</guid>
+      <guid>https://msr4ps.netlify.app/elements/form/</guid>
       <description>Form - Category -ManufacturingShippingAdministrationHuman ResourcesLowNormalHighEmail me a copyI am a human   </description>
     </item>
     
     <item>
       <title>Image</title>
-      <link>https://msr4ps-workshops.github.io/elements/image/</link>
+      <link>https://msr4ps.netlify.app/elements/image/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://msr4ps-workshops.github.io/elements/image/</guid>
+      <guid>https://msr4ps.netlify.app/elements/image/</guid>
       <description>Image Fit  Gallery  Left &amp;amp; Right Fringilla nisl. Donec accumsan interdum nisi, quis tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus.</description>
     </item>
     
     <item>
       <title>References</title>
-      <link>https://msr4ps-workshops.github.io/msr4ps2022/references/</link>
+      <link>https://msr4ps.netlify.app/msr4ps2022/references/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://msr4ps-workshops.github.io/msr4ps2022/references/</guid>
+      <guid>https://msr4ps.netlify.app/msr4ps2022/references/</guid>
       <description>References   Kathrin Bednar, Sarah Spiekermann, and Marc Langheinrich. &amp;ldquo;Engineering Privacy by Design: Are Engineers Ready to Live Up to the Challenge?&amp;rdquo; The Information Society. Vol 35, 3. (2019), 122–142. DOI: 10.1080/01972243.2019.1583296
   Seyed Mohammad Ghaffarian and Hamid Reza Shahriari. &amp;ldquo;Software Vulnerability Analysis and Discovery Using Machine-Learning and Datamining Techniques: A survey&amp;rdquo;. ACM Computing Surveys (CSUR). Vol 50, 4. (2017), 1–36. DOI 10.1145/3092566
   Seda Gürses and Jose M Del Alamo.</description>
@@ -123,64 +123,64 @@
     
     <item>
       <title>Page Bundle Example</title>
-      <link>https://msr4ps-workshops.github.io/blog/page-bundle-example/</link>
+      <link>https://msr4ps.netlify.app/blog/page-bundle-example/</link>
       <pubDate>Thu, 15 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://msr4ps-workshops.github.io/blog/page-bundle-example/</guid>
+      <guid>https://msr4ps.netlify.app/blog/page-bundle-example/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam sit amet dui nec dui commodo auctor non eu mauris. Duis varius finibus vestibulum. Praesent aliquam, erat sed dictum feugiat, velit erat iaculis elit, eget iaculis ex libero ac sapien. Sed maximus ut lectus et varius. Nullam posuere velit vitae est consectetur porttitor. Vestibulum tempor felis ante, nec volutpat risus vestibulum ac. Mauris at finibus felis, eu placerat arcu. Sed nec semper nunc.</description>
     </item>
     
     <item>
       <title>Ante mattis interdum dolor</title>
-      <link>https://msr4ps-workshops.github.io/blog/post2/</link>
+      <link>https://msr4ps.netlify.app/blog/post2/</link>
       <pubDate>Thu, 18 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://msr4ps-workshops.github.io/blog/post2/</guid>
+      <guid>https://msr4ps.netlify.app/blog/post2/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam sit amet dui nec dui commodo auctor non eu mauris. Duis varius finibus vestibulum. Praesent aliquam, erat sed dictum feugiat, velit erat iaculis elit, eget iaculis ex libero ac sapien. Sed maximus ut lectus et varius. Nullam posuere velit vitae est consectetur porttitor. Vestibulum tempor felis ante, nec volutpat risus vestibulum ac. Mauris at finibus felis, eu placerat arcu. Sed nec semper nunc.</description>
     </item>
     
     <item>
       <title>Odio magna sed consectetur</title>
-      <link>https://msr4ps-workshops.github.io/blog/post4/</link>
+      <link>https://msr4ps.netlify.app/blog/post4/</link>
       <pubDate>Thu, 11 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://msr4ps-workshops.github.io/blog/post4/</guid>
+      <guid>https://msr4ps.netlify.app/blog/post4/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam sit amet dui nec dui commodo auctor non eu mauris. Duis varius finibus vestibulum. Praesent aliquam, erat sed dictum feugiat, velit erat iaculis elit, eget iaculis ex libero ac sapien. Sed maximus ut lectus et varius. Nullam posuere velit vitae est consectetur porttitor. Vestibulum tempor felis ante, nec volutpat risus vestibulum ac. Mauris at finibus felis, eu placerat arcu. Sed nec semper nunc.</description>
     </item>
     
     <item>
       <title>Augue lorem primis vestibulum</title>
-      <link>https://msr4ps-workshops.github.io/blog/post3/</link>
+      <link>https://msr4ps.netlify.app/blog/post3/</link>
       <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://msr4ps-workshops.github.io/blog/post3/</guid>
+      <guid>https://msr4ps.netlify.app/blog/post3/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam sit amet dui nec dui commodo auctor non eu mauris. Duis varius finibus vestibulum. Praesent aliquam, erat sed dictum feugiat, velit erat iaculis elit, eget iaculis ex libero ac sapien. Sed maximus ut lectus et varius. Nullam posuere velit vitae est consectetur porttitor. Vestibulum tempor felis ante, nec volutpat risus vestibulum ac. Mauris at finibus felis, eu placerat arcu. Sed nec semper nunc.</description>
     </item>
     
     <item>
       <title>Contact Us</title>
-      <link>https://msr4ps-workshops.github.io/contact/</link>
+      <link>https://msr4ps.netlify.app/contact/</link>
       <pubDate>Wed, 06 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://msr4ps-workshops.github.io/contact/</guid>
+      <guid>https://msr4ps.netlify.app/contact/</guid>
       <description> </description>
     </item>
     
     <item>
       <title>first post</title>
-      <link>https://msr4ps-workshops.github.io/blog/post/</link>
+      <link>https://msr4ps.netlify.app/blog/post/</link>
       <pubDate>Mon, 06 Feb 2012 00:00:00 +0000</pubDate>
       
-      <guid>https://msr4ps-workshops.github.io/blog/post/</guid>
+      <guid>https://msr4ps.netlify.app/blog/post/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam sit amet dui nec dui commodo auctor non eu mauris. Duis varius finibus vestibulum. Praesent aliquam, erat sed dictum feugiat, velit erat iaculis elit, eget iaculis ex libero ac sapien. Sed maximus ut lectus et varius. Nullam posuere velit vitae est consectetur porttitor. Vestibulum tempor felis ante, nec volutpat risus vestibulum ac. Mauris at finibus felis, eu placerat arcu. Sed nec semper nunc.</description>
     </item>
     
     <item>
       <title>Primis eget imperdiet lorem</title>
-      <link>https://msr4ps-workshops.github.io/blog/post1/</link>
+      <link>https://msr4ps.netlify.app/blog/post1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://msr4ps-workshops.github.io/blog/post1/</guid>
+      <guid>https://msr4ps.netlify.app/blog/post1/</guid>
       <description>Example of post with missing date property.</description>
     </item>
     

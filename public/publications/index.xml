@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications on MSR4P&amp;S</title>
-    <link>https://msr4ps-workshops.github.io/publications/</link>
+    <link>https://msr4ps.netlify.app/publications/</link>
     <description>Recent content in Publications on MSR4P&amp;S</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://msr4ps-workshops.github.io/publications/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://msr4ps.netlify.app/publications/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
