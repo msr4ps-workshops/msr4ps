@@ -6,7 +6,7 @@ banner:
   content: "" # Change this if you want something other then the site description
   buttons:
     - title: "SUBMIT"
-      link: "#"
+      link: "https://msr4ps-22.hotcrp.com/"
       class: "primary"
     - title: "CURRENT EDITION"
       link: "/msr4ps2022/"

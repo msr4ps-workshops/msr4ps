@@ -78,7 +78,8 @@ link = "https://github.com/msr4ps-workshops"
 
 
   [[menu.main]]
-    identifier = "publications"
+    identifier = "fse"
     name = "ESEC/FSE 2022"
     url = "https://2022.esec-fse.org/track/fse-2022-workshops"
     weight = 60
+
