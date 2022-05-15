@@ -29,7 +29,7 @@ themesDir = "themes"
 [[params.share]]
 title = "twitter"
 icon = "fa-twitter"
-link = "https://twitter.com/"
+link = "https://twitter.com/MSR4PSworkshop"
 
 [[params.share]]
 title = "github"
