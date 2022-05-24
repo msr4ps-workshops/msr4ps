@@ -12,8 +12,6 @@ P&S are multifaceted and complex research areas spanning across different knowle
 Mining Software Repositories (MSR) techniques can support this quest by providing means to understand the P&S dimensions of information systems, thus help shaping privacy- and security-friendly software. This workshop aims to explore the application of MSR at the different stages of P&S engineering **[2,7]**. 
 
 
-
-
 ## Topics of Interest
 
 For this, we invite MSR researchers and practitioners across multiple disciplines and knowledge backgrounds to submit contributions dealing with the following (or related) topics:
@@ -35,3 +33,6 @@ For this, we invite MSR researchers and practitioners across multiple discipline
 
 
 Any paper within the scope of the workshop will be considered. Additionally, this year we specially welcome submissions elaborating on **MSR for the analysis and extraction of privacy and security anti-patterns**--namely, solutions that demonstrate knowledge of poor development practices.
+
+
+{{< image-text src="/images/singapore2.jpg" class= "fit" >}} 

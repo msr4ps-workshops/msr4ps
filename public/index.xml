@@ -18,16 +18,6 @@
     </item>
     
     <item>
-      <title>Text</title>
-      <link>https://msr4ps.netlify.app/elements/text/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://msr4ps.netlify.app/elements/text/</guid>
-      <description>Text This is bold and this is strong. This is italic and this is emphasized. This is superscript text and this is subscript text. This is underlined and this is code: for (;;) { ... }. Finally, this is a link.
- Heading with a Subtitle Lorem ipsum dolor sit amet nullam id egestas urna aliquam Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet.</description>
-    </item>
-    
-    <item>
       <title>Theme &amp; Goals</title>
       <link>https://msr4ps.netlify.app/msr4ps2022/theme/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -62,25 +52,7 @@ Workshop papers must follow the ESEC/FSE 2022 Format and Submission Guidelines. 
       
       <guid>https://msr4ps.netlify.app/msr4ps2022/program/</guid>
       <description>Program Committee The Organising Committee thanks the following generous individuals below:
-   Reviewer Organisation Twitter     Muhammad Ikram Macquarie University @midkhan   Tosin Daniel Oyetoyan Western Norway University    Daniela Cruzes NTNU @dscruzes   Vahideh Moghtadaiee Shahid Beheshti University    Sascha Fahl CISPA @sascha_fahl   Natalia Stakhanova University of Saskatchewan @nstakhanova   Kazi Zakia Sultana Montclair State University     </description>
-    </item>
-    
-    <item>
-      <title>Table</title>
-      <link>https://msr4ps.netlify.app/elements/table/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://msr4ps.netlify.app/elements/table/</guid>
-      <description>Table Default    NAME DESCRIPTION PRICE     Item 1 Ante turpis integer aliquet porttitor. 29.99   Item 2 Vis ac commodo adipiscing arcu aliquet. 19.99   Item 3 Morbi faucibus arcu accumsan lorem. 29.99   Item 4 Vitae integer tempus condimentum. 19.99   Item 5 Ante turpis integer aliquet porttitor. 29.99     100.00    </description>
-    </item>
-    
-    <item>
-      <title>Buttons</title>
-      <link>https://msr4ps.netlify.app/elements/buttons/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://msr4ps.netlify.app/elements/buttons/</guid>
-      <description>Buttons PRIMARYDEFAULT LARGEDEFAULTSMALL FITFIT FIT &amp;#43; SMALLFIT &amp;#43; SMALL ICONICON PRIMARYDEFAULT </description>
+   Reviewer Organisation Twitter     Muhammad Ikram Macquarie University @midkhan   Tosin Daniel Oyetoyan Western Norway University    Daniela Cruzes NTNU @dscruzes   Vahideh Moghtadaiee Shahid Beheshti University    Sascha Fahl CISPA @sascha_fahl   Natalia Stakhanova University of Saskatchewan @nstakhanova   Kazi Zakia Sultana Montclair State University    Diego Costa Concordia University @DiegoEliasCosta   Clemente Izurieta Montana State University    Max Young Mississippi State University    Mariana Peixoto Federal University of Pernambuco    Jose del Alamo Universidad Politécnica de Madrid    Gabriel Pedroza CEA LIST    Triet Le University of Adelaide, CREST @lhmtriet    </description>
     </item>
     
     <item>
@@ -91,24 +63,6 @@ Workshop papers must follow the ESEC/FSE 2022 Format and Submission Guidelines. 
       <guid>https://msr4ps.netlify.app/msr4ps2022/image/</guid>
       <description>Workshop Program Times will be Singapore Time (GMT+8)
    Time Title Who     9:00am Welcome MSR2P&amp;amp;S Organisers   9:15am Keynote 1 TBD   10:00am Session 1: Regular Papers    11:30am Discussion: Regular Papers    12:00pm Lunch    1:30am Keynote 2 TBD   2:15pm Session 2: Short Papers    3:15pm Discussion: Short Papers    3:45pm End of MSR2P&amp;amp;S MSR2P&amp;amp;S Organisers     Keynote Title Fringilla nisl.</description>
-    </item>
-    
-    <item>
-      <title>Form</title>
-      <link>https://msr4ps.netlify.app/elements/form/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://msr4ps.netlify.app/elements/form/</guid>
-      <description>Form - Category -ManufacturingShippingAdministrationHuman ResourcesLowNormalHighEmail me a copyI am a human   </description>
-    </item>
-    
-    <item>
-      <title>Image</title>
-      <link>https://msr4ps.netlify.app/elements/image/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://msr4ps.netlify.app/elements/image/</guid>
-      <description>Image Fit  Gallery  Left &amp;amp; Right Fringilla nisl. Donec accumsan interdum nisi, quis tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus.</description>
     </item>
     
     <item>
