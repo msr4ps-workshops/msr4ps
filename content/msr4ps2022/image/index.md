@@ -14,10 +14,9 @@ Times will be Singapore Time (GMT+8)
 | 10:00am			 | Session 1: Regular Papers	|						|
 | 11:30am			 | Discussion: Regular Papers	|						|
 | 12:00pm			 | _Lunch_						|						|
-| 1:30am			 | Keynote 2            		| TBD				    |
-| 2:15pm			 | Session 2: Short Papers		|						|
-| 3:15pm			 | Discussion: Short Papers		|						|
-| 3:45pm			 | _End of MSR2P&S_				| MSR2P&S Organisers	|
+| 1:30am			 | Session 2: Short Papers      |   				    |
+| 2:30pm			 | Discussion: Short Papers		|						|
+| 3:00pm			 | _End of MSR2P&S_				| MSR2P&S Organisers	|
 
 
 
@@ -32,10 +31,5 @@ Times will be Singapore Time (GMT+8)
 Fringilla nisl. Donec accumsan interdum nisi, quis tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent. Donec accumsan interdum nisi, quis tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent.
 {{< /image-text >}}
 
-### Keynote Title
-
-{{< image-text src="image/pic05.jpg" class= "left" >}}
-Fringilla nisl. Donec accumsan interdum nisi, quis tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent. Donec accumsan interdum nisi, quis tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent.
-{{< /image-text >}} 
 
 
