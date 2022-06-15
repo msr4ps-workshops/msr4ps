@@ -5,9 +5,6 @@ weight = 20
 
 ## {{< param title >}}
 
-**November 18th, 2022, Fully Online**
-
-
 Workshop papers must follow the [ESEC/FSE 2022 Format and Submission Guidelines](https://2022.esec-fse.org/track/fse-2022-how-to-submit). The workshop follows a _double-blind peer review_ process, aligned with [ESEC/FSE's Double-Blind Review Process' policies](https://2022.esec-fse.org/track/fse-2022-how-to-submit). Papers submitted must not reveal the authors’ identities in any way, omitting the names from the submission and referring to self-citations in the third person. The only **exception** will be dataset and tools papers, which will employ an optional _single-blind review process._
 
 All submitted papers will be reviewed regarding technical quality, relevance, significance, and clarity by the program committee. All workshop papers should be submitted electronically in PDF format through the workshop website. Accepted papers will become part of the workshop proceedings.

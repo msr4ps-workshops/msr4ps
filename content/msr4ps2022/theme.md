@@ -5,6 +5,8 @@ weight = 10
 
 ## {{< param title >}}
 
+**SUBMISSION DEADLINE: JULY 24TH, 2022**
+
 The last decades have put Privacy and Security (P&S) in the spotlight of information technology as data breaches and cyberattacks have spiked globally. Still, P&S are often afterthoughts in software development as their benefits are sometimes difficult to demonstrate and their costs hard to justify **[6,8]**. However, such technical debt is becoming hard to sustain as new legal frameworks, such as the EU General Data Protection Regulation (GDPR), demand companies to incorporate P&S features (e.g., transparency, anonymity, and informed consent) at the core of their products **[6]**. Hence, there is an urgent call for tools and methods supporting the elicitation and deployment of P\&S requirements in _by-design_ approach.
 
 P&S are multifaceted and complex research areas spanning across different knowledge domains (e.g., engineering, law, and psychology) **[1,5]**. Challenges in P&S cannot be solely addressed from a single discipline as they often involve human factors, technological artefacts, and regulatory/legal frameworks **[3,9]**. Particularly, the quest for P&S solutions requires in-deep knowledge and actionable information about its users/stakeholders, vulnerabilities/flaws, and potential attackers **[4,5]**. 
