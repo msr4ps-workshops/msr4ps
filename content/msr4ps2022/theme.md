@@ -5,7 +5,7 @@ weight = 10
 
 ## {{< param title >}}
 
-**SUBMISSION DEADLINE: JULY 24TH, 2022**
+##### SUBMISSION DEADLINE EXTENDED: JULY 31st (anywhere on earth), 2022
 
 The last decades have put Privacy and Security (P&S) in the spotlight of information technology as data breaches and cyberattacks have spiked globally. Still, P&S are often afterthoughts in software development as their benefits are sometimes difficult to demonstrate and their costs hard to justify **[6,8]**. However, such technical debt is becoming hard to sustain as new legal frameworks, such as the EU General Data Protection Regulation (GDPR), demand companies to incorporate P&S features (e.g., transparency, anonymity, and informed consent) at the core of their products **[6]**. Hence, there is an urgent call for tools and methods supporting the elicitation and deployment of P\&S requirements in _by-design_ approach.
 

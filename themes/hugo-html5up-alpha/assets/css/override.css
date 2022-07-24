@@ -7,3 +7,14 @@
 	font-weight: normal !important;
 	font-size: larger;	
 }
+
+#submission-deadline-extended-july-31st-anywhere-on-earth-2022 {
+	color: #fb0707 !important;
+	font-weight: bold;
+	font-size: large;
+}
+
+
+table > tbody > tr > td > strong {
+	color: #fb0707 !important;
+}
