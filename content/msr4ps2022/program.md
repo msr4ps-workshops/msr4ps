@@ -23,5 +23,5 @@ The Organising Committee thanks the following generous individuals below:
 | [Jose del Alamo](http://www.dit.upm.es/~jmdela/index_en.html)         | Universidad Politécnica de Madrid  |                            |
 | [Gabriel Pedroza](https://www.researchgate.net/profile/Gabriel-Pedroza)        | CEA LIST                           |               |
 | [Triet Le](https://www.trietle.net)               | University of Adelaide, CREST      | [@lhmtriet](https://twitter.com/lhmtriet)          |
-| [Maritta Heisal](https://www.uni-due.de/swe/maritta.php)            | University Duisburg-Essen          |                      |
-| [Nicola Zanone](https://www.tue.nl/en/research/researchers/nicola-zannone/)             | Eindhoven University of Technology | |
+| [Maritta Heisal](https://www.uni-due.de/swe/maritta.php)         | University Duisburg-Essen          |                      |
+| [Nicola Zanone](https://www.tue.nl/en/research/researchers/nicola-zannone/)          | Eindhoven University of Technology | |
