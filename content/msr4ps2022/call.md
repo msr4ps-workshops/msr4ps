@@ -36,6 +36,6 @@ The following are submission and workshop dates for all types of submissions:
 | **Event**                         | **Deadline**          |
 | -------                           | --------------        |
 | Paper Submission                  | ~~July 24th, 2022~~ **July 31st, AoE**     |
-| Main Track Author Notification    | August 15th, 2022     |
-| Camera Ready                      | August 29th, 2022     |
+| Main Track Author Notification    | ~~August 15th, 2022~~     |
+| Camera Ready                      | ~~August 29th, 2022~~     |
 | Date of Workshop                  | _November 18th, 2022_ | 
