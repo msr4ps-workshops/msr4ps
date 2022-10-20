@@ -13,7 +13,7 @@ Times are in Singapore Time (SGT, GMT+8). Please [remember to convert to your ti
 | 9:10am		 | Opening Keynote              | Prof. Ali Babar (introduced by N. Diaz-Ferreyra)		|
 | 10:00am		 | _Break_	                    |						|
 | 10:30am		 | Session 1: Assessing Privacy | W1, W2 (Chair: Z. Codabux)	|
-| 11:00pm		 | Session 2: Vulnerabilities	| W3, W4, W5 (Chair: M. Vidoni)			|
+| 11:00am		 | Session 2: Vulnerabilities	| W3, W4, W5 (Chair: M. Vidoni)			|
 | 12:00pm		 | _Closing, End of MSR2P&S_	| MSR2P&S Organisers	|
 
 
