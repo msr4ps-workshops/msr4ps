@@ -16,7 +16,7 @@ themesDir = "themes"
   copyright = "© MSR4P&S. All rights reserved."
   design = ""
   mainSections = ["blog"]
-  menuTitle = ["VERSION 2022"]
+  menuTitle = ["VERSION 2023"]
 
 
 
@@ -43,9 +43,9 @@ link = "https://github.com/msr4ps-workshops"
 ### For sections the name/directory must match the menu .Identifier
 [menu]
   [[menu.main]]
-    identifier = "msr4ps2022"
-    name = "MSR4P&S 2022"
-    url = "/msr4ps2022/"
+    identifier = "msr4ps2023"
+    name = "MSR4P&S 2023"
+    url = "/msr4ps2023/"
     weight = 20
 
 
@@ -67,19 +67,28 @@ link = "https://github.com/msr4ps-workshops"
     identifier = "workshops"
     name = "Past Editions"
     url = ""
+    hasChildren = true
     weight = 50
 
    [[menu.main]]
-    identifier = "dropping"
+    identifier = "ws22"
     parent = "workshops"
     name = "MSR4P&S 2022"
     url = "/msr4ps2022/"
     weight = 1
 
 
+   [[menu.main]]
+    identifier = "ws23"
+    parent = "workshops"
+    name = "MSR4P&S 2023"
+    url = "/msr4ps2023/"
+    weight = 2
+
+
   [[menu.main]]
     identifier = "fse"
-    name = "ESEC/FSE 2022"
-    url = "https://2022.esec-fse.org/track/fse-2022-workshops"
+    name = "ESEC/FSE 2023"
+    url = "https://2023.esec-fse.org/track/fse-2023-workshops"
     weight = 60
 

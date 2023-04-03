@@ -6,10 +6,10 @@ banner:
   content: "" # Change this if you want something other then the site description
   buttons:
     - title: "SUBMIT"
-      link: "https://msr4ps-22.hotcrp.com/"
+      link: "https://msr4ps-23.hotcrp.com/"
       class: "primary"
     - title: "CURRENT EDITION"
-      link: "/msr4ps2022/"
+      link: "/msr4ps2023/"
 
 
 
@@ -20,8 +20,8 @@ highlight:
   content: "In this website you can find all information related to MSR4P&S, its steering team, links to the current and previous editions, 
   published papers and related projects.
   <br /><br />
-  The current version of MSR4P&S is <a href='/msr4ps2022/' target='_blank'>MSR4P&S 2022</a>"
-  image: "/images/singapore.jpg"
+  The current version of MSR4P&S is <a href='/msr4ps2023/' target='_blank'>MSR4P&S 2023</a>"
+  image: "/images/currentCity.jpg"
 
 
 ### Generic ###
