@@ -5,7 +5,7 @@ weight = 40
 
 ## {{< param title >}}
 
-Times are in San Francisco Time (GMT-7). Please [remember to convert to your timezone](https://www.worldtimeserver.com/current_time_in_US-CA.aspx?city=San_Francisco).
+Times are in Norway Time (GMT+2). Please [remember to convert to your timezone](https://www.worldtimeserver.com/current_time_in_NO.aspx).
 
 | **Time**		 | **Title** 				              | **Who**	 			        |
 |:--			 |:----------------------------|:--------------------|
@@ -26,7 +26,7 @@ Times are in San Francisco Time (GMT-7). Please [remember to convert to your tim
  
 Details on the keynote will be available at a later date.
 
-{{< image-text src="image/speaker2023.jpg" class= "left" >}}{{< /image-text >}}
+{{< image-text src="image/speaker2024.jpg" class= "left" >}}{{< /image-text >}}
 SPEAKER TBA
 
 

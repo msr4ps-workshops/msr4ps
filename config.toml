@@ -88,7 +88,7 @@ link = "https://github.com/msr4ps-workshops"
 
   [[menu.main]]
     identifier = "fse"
-    name = "ESEC/FSE 2023"
+    name = "SANER 2024"
     url = "https://2023.esec-fse.org/track/fse-2023-workshops"
     weight = 60
 
