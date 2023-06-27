@@ -16,7 +16,7 @@ themesDir = "themes"
   copyright = "© MSR4P&S. All rights reserved."
   design = ""
   mainSections = ["blog"]
-  menuTitle = ["VERSION 2023"]
+  menuTitle = ["VERSION 2024"]
 
 
 
@@ -43,9 +43,9 @@ link = "https://github.com/msr4ps-workshops"
 ### For sections the name/directory must match the menu .Identifier
 [menu]
   [[menu.main]]
-    identifier = "msr4ps2023"
-    name = "MSR4P&S 2023"
-    url = "/msr4ps2023/"
+    identifier = "msr4ps2024"
+    name = "MSR4P&S 2024"
+    url = "/msr4ps2024/"
     weight = 20
 
 
