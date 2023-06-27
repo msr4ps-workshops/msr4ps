@@ -79,16 +79,16 @@ link = "https://github.com/msr4ps-workshops"
 
 
    [[menu.main]]
-    identifier = "ws23"
+    identifier = "ws24"
     parent = "workshops"
-    name = "MSR4P&S 2023"
-    url = "/msr4ps2023/"
+    name = "MSR4P&S 2024"
+    url = "/msr4ps2024/"
     weight = 2
 
 
   [[menu.main]]
     identifier = "fse"
     name = "SANER 2024"
-    url = "https://2023.esec-fse.org/track/fse-2023-workshops"
+    url = "https://conf.researchr.org/track/saner-2024/saner-2024-workshops-and-tutorials-track-"
     weight = 60
 
