@@ -6,7 +6,7 @@ weight = 10
 
 ## Organisation Committee Members
 
-The MSRP&S organization committee organizes the individual workshops and takes care of attracting relevant and interesting publications. We thank the current and former organization committee members for support of MSR4P&S:
+The MSRP&S organising committee takes care of attracting relevant and interesting publications. We thank the current and former committee members for supporting MSR4P&S:
 
 {{< image-text src="images/nico_small.jpg" class= "left" width="150" >}}
 <b>Dr Nicolás Díaz-Ferreyra</b> is a senior researcher and lecturer at the Institute of Software Security of Hamburg University of Technology, Germany. His research stands at the intersection of human-computer interaction and privacy engineering. Particularly, he is interested in the application of AI and "digital nudging" to cybersecurity decision-making processes. He has a Ph.D. in computer science from the University of Duisburg-Essen where he worked as a postdoctoral fellow and coordinator of the research training group "User-Centred Social Media" funded by the German Research Association. He also took part in the H2020 project "PDP4E: Methods and tools for GDPR compliance through privacy and data-protection engineering".
