@@ -35,7 +35,8 @@ SPEAKER TBA
 
 ### Accepted Papers
 
-For speaker information, see [ESEC/FSE's Information](https://2023.esec-fse.org/attending/speaker-info).
+<!--- For speaker information, see [ESEC/FSE's Information](https://2023.esec-fse.org/attending/speaker-info). 
+-->
 
 | **#** | **Authors**                     | **Title/Preprint Link** |
 | :--   | :--                             | :--                     |
