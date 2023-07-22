@@ -20,7 +20,7 @@ The workshop welcomes the following types of submissions:
 
 
 {{< button-group class="actions fit" >}}
-    {{< button title="SUBMIT" link= "https://msr4ps-23.hotcrp.com/" class="" target="_blank">}}
+    {{< button title="SUBMIT" link= "https://easychair.org/conferences/?conf=msr4ps2024" class="" target="_blank">}}
 {{< /button-group >}}
 
 
