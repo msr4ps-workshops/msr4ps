@@ -3,6 +3,8 @@ Title = "Workshop Program"
 weight = 40
 +++
 
+<!---
+
 ## {{< param title >}}
 
 Times are in Norway Time (GMT+2). Please [remember to convert to your timezone](https://www.worldtimeserver.com/current_time_in_NO.aspx).
@@ -45,3 +47,5 @@ SPEAKER TBA
 |        |                                |                         |
 |        |                                |                         |
 |        |                                |                         |
+
+-->
