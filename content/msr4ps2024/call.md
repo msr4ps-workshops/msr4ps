@@ -17,7 +17,7 @@ Submitted papers must have been neither previously accepted for publication nor 
 
 - **Regular Papers:** up to eight pages, including references. It must describe original contributions in research and/or practice. Although they can be work-in-progress, the authors must present a clear path forward. These will be given a 15-minute presentation during the workshop.
 - **Short Papers:** up to four pages, including references. It welcomes position papers, experience reports, work-in-progress, new trends papers, industrial reports, datasets and tools. These will be given a 7-minutes presentation during the workshop.
-- 
+
 The workshop will follow a double-anonymous peer review process in alignment with SANER's Review Process policies. This means that the papers submitted must not reveal the authors’ identities in any way, omitting the names from the submission and referring to self-citations in the third person. The only exception will be dataset and tools papers, which will employ an optional single-anonymous review process.
 <br/>
 
