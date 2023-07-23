@@ -32,6 +32,6 @@ We invite MSR researchers and practitioners across multiple disciplines and know
 
 ### Special Topic of Interest
 
-Any paper within the scope of the workshop will be considered. Additionally, this year we especially welcome submissions elaborating on **MSR applications for the security and privacy assessment of generative Artificial Intelligence (AI) models** (e.g., GPT-3 and GitHub Copilot) and their impact on modern software engineering processes}.
+Any paper within the scope of the workshop will be considered. Additionally, this year we especially welcome submissions elaborating on **MSR applications for the security and privacy assessment of generative Artificial Intelligence (AI) models** (e.g., GPT-3 and GitHub Copilot) and their impact on modern software engineering processes.
 
 {{< image-text src="/images/wideCity-keep-2023.jpg" class= "fit" >}} 
