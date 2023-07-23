@@ -34,7 +34,7 @@ The workshop will follow a double-anonymous peer review process in alignment wit
 
 ## Important Dates
 
-<span style="color:red">The following are submission and workshop dates for all types of submissions:</span>
+The following are submission and workshop dates for all types of submissions:
 
 
 | **EVENT**                         | **DEADLINE**        |
