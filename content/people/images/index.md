@@ -9,11 +9,12 @@ weight = 10
 The MSRP&S organising committee takes care of creating an attractive forum for researchers and practitioners interested in the interaction of cybersecurity and software repository mining. We thank the current and former committee members for supporting MSR4P&S:
 
 {{< image-text src="images/nico_small_2.jpg" class= "left">}}
-<b>Dr Nicolás Díaz-Ferreyra</b> is a senior researcher and lecturer at the Institute of Software Security of Hamburg University of Technology, Germany. His research stands at the intersection of human-computer interaction and privacy engineering. Particularly, he is interested in the application of AI and "digital nudging" to cybersecurity decision-making processes. He has a Ph.D. in computer science from the University of Duisburg-Essen where he worked as a postdoctoral fellow and coordinator of the research training group "User-Centred Social Media" funded by the German Research Association. He also took part in the H2020 project "PDP4E: Methods and tools for GDPR compliance through privacy and data-protection engineering".
+<b>Dr Nicolás E. Díaz Ferreyra</b> is a senior researcher and lecturer at the Institute of Software Security of Hamburg University of Technology, Germany. His research stands at the intersection of human-computer interaction and privacy engineering, with a special focus on the application of AI and ``digital nudging" to cybersecurity decision-making processes. He has a Ph.D. in computer science from the University of Duisburg-Essen, where he worked as a postdoctoral fellow and coordinator of the DFG-funded research training group "User-Centred Social Media". He has taken part in several European projects, including "PDP4E: Methods and tools for GDPR compliance through privacy and data-protection engineering" and "AssureMOSS: Assurance and certification in secure Multi-party Open Software and Services".
 <br/>
-<i>Related Service Duty:</i> In 2021, he co-organised the first workshop on adverse impacts and collateral effects of AI technologies (AIofAI'21) at International Joint Conference on Artificial Intelligence (IJCAI). He has served as a PC member in several conferences and workshops including the International Conference on ICT Systems Security and Privacy Protection (IFIP-SEC), the International Symposium on Foundations and Practice of Security (FPS), and the International Workshop on Data Privacy Management (DPM).
+<i>Related Service Duty:</i> He is the co-organiser of the AiOfAi workshop series on adverse impacts and collateral effects of AI technologies co-located with IJCAI. He has been a PC member in conferences/workshops such as CHI, IFIP-SEC, ARES, CSCW, EuroUSEC, SVM@ICSE, DPM@ESORICS, and IWPE@EuroS&P; and also as a reviewer of journals like JSS, COSE, IST, and SoSyM.
 <br/>
-Twitter: <a href="https://twitter.com/nicolasediaz" target="_blank">@nicolasediaz</a>
+Twitter: <a href="https://twitter.com/nicolasediaz" target="_blank">@nicolasediaz</a> <br/>
+Website: <a href="https://www.ndiaz-ferreyra.com/" target="_blank">www.ndiaz-ferreyra.com</a>
 {{< /image-text >}}
 
 {{< image-text src="images/zadia.jpg" class= "left" >}}
