@@ -2,7 +2,7 @@
 banner:
   enable: true
   image: 'images/banner_4.jpg'
-  title: "MSR4P&S"
+  title: "MSR4P&S"![MSR4P&S](/images/logo/logo.svg "logo")
   content: "" # Change this if you want something other then the site description
   buttons:
     - title: "SUBMIT"
