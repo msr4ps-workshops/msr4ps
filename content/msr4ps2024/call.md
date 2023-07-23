@@ -13,13 +13,10 @@ All submitted papers will be reviewed regarding technical quality, relevance, si
 The workshop welcomes the following types of submissions:
 -->
 
-Submitted papers must have been neither previously accepted for publication nor concurrently submitted for review in another journal, book, conference, or workshop. All submissions must come in PDF format and conform, at the time of submission, to the [IEEE Conference Proceedings Formatting Guidelines](https://www.ieee.org/conferences/publishing/templates.html): title in 24pt font and full text in 10pt font, LaTEX users must use **\textit{$\backslash$documentclass[10pt,conference]\{IEEEtran\}}** without including the \textit{compsoc} or \textit{compsocconf} option. Also, papers must comply with the IEEE Policy on Authorship. All submissions must be in English. 
-
-Submissions can be of the following types:
-
+Submitted papers must have been neither previously accepted for publication nor concurrently submitted for review in another journal, book, conference, or workshop. All submissions must come in PDF format and conform, at the time of submission, to the [IEEE Conference Proceedings Formatting Guidelines](https://www.ieee.org/conferences/publishing/templates.html): title in 24pt font and full text in 10pt font, LaTEX users must use **\textit{$\backslash$documentclass[10pt,conference]\{IEEEtran\}}** without including the \textit{compsoc} or \textit{compsocconf} option. Also, papers must comply with the IEEE Policy on Authorship. All submissions must be in English.</br>
+Submissions can be of the following types:</br>
 - **Regular Papers:** up to eight pages, including references. It must describe original contributions in research and/or practice. Although they can be work-in-progress, the authors must present a clear path forward. These will be given a 15-minute presentation during the workshop.
-- **Short Papers:** up to four pages, including references. It welcomes position papers, experience reports, work-in-progress, new trends papers, industrial reports, datasets and tools. These will be given a 7-minutes presentation during the workshop.
-
+- **Short Papers:** up to four pages, including references. It welcomes position papers, experience reports, work-in-progress, new trends papers, industrial reports, datasets and tools. These will be given a 7-minutes presentation during the workshop.</br>
 The workshop will follow a double-anonymous peer review process in alignment with SANER's Review Process policies. This means that the papers submitted must not reveal the authors’ identities in any way, omitting the names from the submission and referring to self-citations in the third person. The only exception will be dataset and tools papers, which will employ an optional single-anonymous review process.
 <br/>
 
