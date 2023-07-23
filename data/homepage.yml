@@ -6,7 +6,7 @@ banner:
   content: "" # Change this if you want something other then the site description
   buttons:
     - title: "SUBMIT"
-      link: "https://msr4ps-24hotcrp.com/"
+      link: "https://easychair.org/conferences/?conf=msr4ps2024"
       class: "primary"
     - title: "CURRENT EDITION"
       link: "/msr4ps2024/"
