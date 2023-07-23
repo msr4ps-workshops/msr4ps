@@ -40,4 +40,4 @@ The workshop welcomes the following types of submissions:
 | Camera Ready                      | January 12th, 2024  |
 | Date of Workshop                  | March 12th, 2024    | 
 
-**All times are Anywhere On Earth (AoE)**
+(*) **All times are Anywhere On Earth (AoE)**
