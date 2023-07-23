@@ -30,12 +30,12 @@ The workshop welcomes the following types of submissions:
 
 ## Important Dates
 
-The following are submission and workshop dates for all types of submissions:
+<span style="color:red">The following are submission and workshop dates for all types of submissions:</span>
 
 
 | **Event**                         | **Deadline**        |
 | -------                           |-------------------  |
-| Paper Submission                  | <font color='red'>December 13th, 2023</font> |
+| Paper Submission                  | December 13th, 2023 |
 | Main Track Author Notification    | January 8th, 2024   |
 | Camera Ready                      | January 12th, 2024  |
 | Date of Workshop                  | March 12th, 2024    | 
