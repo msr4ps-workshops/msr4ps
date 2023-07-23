@@ -30,6 +30,6 @@ We invite MSR researchers and practitioners across multiple disciplines and know
 - Datasets used for MSR-based research for P&S
 - MSR applications to P&S assurance
 
-Any paper within the scope of the workshop will be considered. Additionally, this year we specially welcome submissions elaborating on MSR for the analysis and extraction of privacy and security anti-patterns–namely, solutions that demonstrate knowledge of poor development practices.
+> Any paper within the scope of the workshop will be considered. Additionally, this year we specially welcome submissions elaborating on MSR for the analysis and extraction of privacy and security anti-patterns–namely, solutions that demonstrate knowledge of poor development practices.
 
 {{< image-text src="/images/wideCity-keep-2023.jpg" class= "fit" >}} 
