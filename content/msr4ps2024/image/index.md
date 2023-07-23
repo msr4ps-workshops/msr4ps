@@ -28,11 +28,9 @@ Times are in Norway Time (GMT+2). Please [remember to convert to your timezone](
  
 Details on the keynote will be available at a later date.
 
-<!---
 {{< image-text src="image/speaker2024.jpg" class= "left" >}}{{< /image-text >}}
 
 SPEAKER TBA
--->
 
 
 
