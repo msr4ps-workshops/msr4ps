@@ -28,9 +28,9 @@ Details on the keynote will be available at a later date.
 
 <!---
 {{< image-text src="image/speaker2024.jpg" class= "left" >}}{{< /image-text >}}
--->
-SPEAKER TBA
 
+SPEAKER TBA
+-->
 
 
 
