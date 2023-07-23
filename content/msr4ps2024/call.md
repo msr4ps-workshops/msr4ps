@@ -19,6 +19,8 @@ Submitted papers must have been neither previously accepted for publication nor 
 - **Short Papers:** up to four pages, including references. It welcomes position papers, experience reports, work-in-progress, new trends papers, industrial reports, datasets and tools. These will be given a 7-minutes presentation during the workshop.
 ---
 The workshop will follow a double-anonymous peer review process in alignment with SANER's Review Process policies. This means that the papers submitted must not reveal the authors’ identities in any way, omitting the names from the submission and referring to self-citations in the third person. The only exception will be dataset and tools papers, which will employ an optional single-anonymous review process.
+
+All submitted papers will be reviewed regarding technical quality, relevance, significance, and clarity by the program committee. All workshop papers should be submitted electronically in PDF format through the workshop website (IEEE Format, Double Columns). Accepted papers will become part of the workshop proceedings.
 <br/>
 
 
