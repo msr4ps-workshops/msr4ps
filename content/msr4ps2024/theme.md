@@ -1,5 +1,5 @@
 +++
-Title = "Theme & Goals"
+Title = "Workshop Theme and Goals"
 weight = 10
 +++
 
