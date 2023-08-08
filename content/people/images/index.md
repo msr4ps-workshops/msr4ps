@@ -18,9 +18,9 @@ Website: <a href="https://www.ndiaz-ferreyra.com/" target="_blank">www.ndiaz-fer
 {{< /image-text >}}
 
 {{< image-text src="images/zadia.jpg" class= "left" >}}
-<b>Dr Zadia Codabux</b> is an assistant professor at the University of Saskatchewan, Canada. Her research interests include empirical software engineering, technical debt, and software security. She has a Ph.D. in Computer Science from Mississippi State University, USA. She is also passionate about equality, diversity and inclusion initiatives and is a regular attendee, speaker, and reviewer for the Computing Research Association's Committee on Widening Participation in Computing Research, Grace Hopper Celebration, and the National Center for Women & Information Technology. 
+<b>Dr Zadia Codabux</b> is an assistant professor at the University of Saskatchewan, Canada. Her research interests include empirical software engineering, technical debt, and software security. She has a Ph.D. in Computer Science from Mississippi State University, USA. She is passionate about equality, diversity, and inclusion initiatives. She is a regular attendee, speaker, and reviewer for the Computing Research Association's Committee on Widening Participation in Computing Research, Grace Hopper Celebration, and the National Center for Women & Information Technology. 
 <br/>
-<i>Related Service Duty:</i> She has been on the organizing committee of TechDebt (2019-2022) and SANER (2022) and on the program committee of top-ranked conferences in software engineering, namely, ASE, FSE, ICSME, ICPC, CHASE, SANER, SEAA, TechDebt and a regular reviewer for journals such as IEEE Software, IST, JSS, and EMSE. 
+<i>Related Service Duty:</i> She has been on the organizing committee of ESEM, TechDebt, and SANER and the program committee of top-ranked conferences, namely, ICSE, ASE, FSE, ESEM, ICSME, MSR, ICPC, PROMISE, CHASE, SANER, RE, TechDebt and a regular reviewer for journals such as IEEE Software, IST, JSS, and EMSE.
 <br/>
 Twitter: <a href="https://twitter.com/zadiacodabux" target="_blank">@zadiacodabux</a> <br/>
 Website: <a href="https://www.cs.usask.ca/faculty/zadiacodabux/" target="_blank">www.cs.usask.ca/faculty/zadiacodabux</a>
