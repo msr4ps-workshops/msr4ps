@@ -18,3 +18,4 @@ The Organising Committee thanks the following generous individuals below:
 |Ali Babar|University of Adelaide (Australia)|   |
 |Diego Costa|Concordia University (Canada)|      |
 |Maura Pintor|University of Cagliari (Italy)|    |
+|Clemente Izurieta|Montana State University (USA)||
