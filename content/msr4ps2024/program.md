@@ -16,3 +16,4 @@ The Organising Committee thanks the following generous individuals below:
 |:---------------|:-------------------|:---------------|
 |Federica Paci|University of Verona (Italy)| 		 	           |
 |Ali Babar|University of Adelaide (Australia)|    		 	        |
+|Diego Costa|Concordia University (Canada)| |
