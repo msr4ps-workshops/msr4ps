@@ -22,3 +22,4 @@ The Organising Committee thanks the following generous individuals below:
 |Nan Sun|Deakin University (Australia)|            |
 |Dinusha Vatsalan|Macquarie University (Australia)|        |
 |Antonino Sabetta  | SAP Security Research (France)  |  |
+|Maxwell Young | Mississippi State University (USA) ||
