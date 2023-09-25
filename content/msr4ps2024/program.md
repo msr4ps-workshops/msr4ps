@@ -24,3 +24,4 @@ The Organising Committee thanks the following generous individuals below:
 |Antonino Sabetta  | SAP Security Research (France)  |  |
 |Maxwell Young | Mississippi State University (USA) ||
 |Mariana Peixoto| Federal University of Pernambuco (Brazil) ||
+|Kevin Moran|George Mason University (USA)||
