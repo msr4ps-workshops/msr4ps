@@ -43,7 +43,7 @@ Software repositories are an attractive source of data for understanding the bur
 
 ### Accepted Papers
 
-| **#** | **Authors**                     | **Title/Preprint Link** | **Paper Lenght** |
+| **#** | **Authors**                     | **Paper Title** | **Paper Lenght** |
 | :--   | :--                             | :--                     | :-- |
 | W1 | Anastasia Terzi and Matina Bibi | Managing Security Vulnerabilities Introduced by Third-Party Dependencies in JavaScript Applications | full paper |
 | W2 | Zachary Wadhams, Ann Marie Reinhold and Clemente Izurieta | Automating Static Code Analysis Through CI/CD Pipeline Integration | full paper |
