@@ -17,7 +17,7 @@ Times are in Singapore Time (SGT, GMT+8). Please [remember to convert to your ti
 | 12:00pm		 | _Closing, End of MSR2P&S_	| MSR2P&S Organisers	|
 
 
-
+<!---
 
 
 
@@ -31,7 +31,7 @@ Software repositories are an attractive source of data for understanding the bur
 **[M. Ali Babar](http://malibabar.wordpress.com) is a Professor in the School of Computer Science, University of Adelaide, Australia.** He leads a theme on architecture and platform for security as service in [CyberSecurity Cooperative Research Centre](https://cybersecuritycrc.org.au ), a large initiative funded by the Australian government, industry, and research institutes.  Prior to joining the University of Adelaide, he was a Reader in Software Engineering with the School of Computing and Communication at Lancaster University, UK. After joining the University of Adelaide, Prof Babar established an interdisciplinary research centre called [CREST (Centre for Research on Engineering Software Technologies)](https://www.crest-centre.net ), where he directs the research and education activities of more than 30 researchers and engineers in the areas of Software Systems Engineering, Security and Privacy, and Social Computing. Professor Babar’s research team draws a significant amount of cash funding and in-kind resources from governmental and industrial organisations. Professor Babar has authored/co-authored more than 270 peer-reviewed research papers at premier Software journals and conferences. Professor Babar obtained a Ph.D. in Computer Science and Engineering from the school of computer science and engineering of University of New South Wales, Australia. He also holds a M.Sc. degree in Computing Sciences from University of Technology, Sydney, Australia.
 
 
-
+-->
 
 
 
@@ -41,8 +41,8 @@ For speaker information, see [ESEC/FSE's Information](https://2022.esec-fse.org/
 
 | **#** | **Authors**                     | **Title/Preprint Link** |
 | :--   | :--                             | :--                     |
-| W1    | Samiha Shimmi, Mona Rahimi      | Software Repositories for Patternizing Attack-and-Defense Co-Evolution. |
-| W2    | Feiyang Tang, Bjarte M. Østvold | Assessing Software Privacy using the Privacy Flow-Graph                 |
-| W3    | Sahrima Jannat Oishwee, Zadia Codabux, Natalia Stakhanova | An Exploratory Study on the Relationship of Smells and Design Issues with Software Vulnerabilities |
-| W4    | Joanna Cecilia da Silva Santos, Xueling Zhang, Mehdi Mirakhorli | Counterfeit-Object Oriented Programming Vulnerabilities: An Empirical Study in Java |  
-| W5    | Mohammed Latif Siddiq, Joanna Cecilia da Silva Santos | SecurityEval Dataset: Mining Vulnerability Examples to Evaluate Machine Learning-Based Code Generation Techniques [  [Preprint](https://s2e-lab.github.io/preprints/msr4ps22-preprint.pdf) ]  |
+| W1 | Anastasia Terzi and Matina Bibi | Managing Security Vulnerabilities Introduced by Third-Party Dependencies in JavaScript Applications |
+| W2 | Zachary Wadhams, Ann Marie Reinhold and Clemente Izurieta | Automating Static Code Analysis Through CI/CD Pipeline Integration |
+| W3 | Feiyang Tang and Bjarte M. Østvold | Finding Privacy-relevant Source Code |
+| W4 | Bernd Gruner, Sebastian Thomas Heckner, Tim Sonnekalb, Badr-Eddine Bouhlal and Clemens-Alexander Brust | Finding a Needle in a Haystack: Threat Analysis in Open-Source Projects |
+| W5 | Eric O'Donoghue, Ann Marie Reinhold and Clemente Izurieta | Assessing Security Risks of Software Supply Chains Using Software Bill of Materials |
