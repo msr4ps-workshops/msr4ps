@@ -8,7 +8,7 @@ weight = 40
 
 | **TIME**		 | **TITLE** 				    | **PRESENTER**	 			|
 |:--			 |:--							|:--		 			|
-| 9:00am		  | _Welcome_					                             | MSR4P&S Organisers	|
+| 9:00am		  | _Welcome and Opening Remarks_					                             | MSR4P&S Organisers	|
 | 9:10am		  | Opening Keynote                            | T.B.A		|
 |           | **SESSION 1: Threats and Risk Assessment** | T.B.A |
 | 10:00am		 | W1: Managing Security Vulnerabilities Introduced by Third-Party Dependencies in JavaScript Applications	|			T.B.A			|
@@ -18,7 +18,7 @@ weight = 40
 |           | **SESSION 2: Privacy and Security Analysis** |  T.B.A |
 | 11:45am		 | W4: Finding a Needle in a Haystack: Threat Analysis in Open-Source Projects | T.B.A	|
 | 12:00pm		 | W5: Assessing Security Risks of Software Supply Chains Using Software Bill of Materials | T.B.A |
-| 12:20pm		 | _Closing, End of MSR4P&S_	| MSR4P&S Organisers	|
+| 12:20pm		 | _Closing Remarks, End of MSR4P&S_	| MSR4P&S Organisers	|
 
 
 <!---
