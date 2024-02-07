@@ -8,15 +8,15 @@ weight = 40
 
 | **TIME**		 | **TITLE** 				    | **PRESENTER**	 			|
 |:--			 |:--							|:--		 			|
-|           | **SESSION 1: Wellcome and Keynote Talk** |  |
+|           | **SESSION 1: Wellcome and Keynote Talk (9:00 - 10:00)** |  |
 | 9:00am		  | _Welcome Message and Opening Remarks_	     | MSR4P&S Organisers	|
 | 9:10am		  | Opening Keynote                            | T.B.A		|
-|           | **SESSION 2: Threats and Risk Assessment** |  |
+|           | **SESSION 2: Threats and Risk Assessment (10:00 - 11:00)** |  |
 | 10:00am		 | W1: Managing Security Vulnerabilities Introduced by Third-Party Dependencies in JavaScript Applications	|			T.B.A			|
 | 10:20am   | W2: Automating Static Code Analysis Through CI/CD Pipeline Integration |   T.B.A   |
 | 10:40am   | W3: Finding Privacy-relevant Source Code   | T.B.A |
 | 11:00am   | _COFFEE BREAK_ | |
-|           | **SESSION 3: Privacy and Security Analysis** |  |
+|           | **SESSION 3: Privacy and Security Analysis (11:45 - 12:30)** |  |
 | 11:45am		 | W4: Finding a Needle in a Haystack: Threat Analysis in Open-Source Projects | T.B.A	|
 | 12:00pm		 | W5: Assessing Security Risks of Software Supply Chains Using Software Bill of Materials | T.B.A |
 | 12:20pm		 | _Closing Remarks, End of MSR4P&S_	| MSR4P&S Organisers	|
