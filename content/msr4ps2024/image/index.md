@@ -4,7 +4,7 @@ weight = 40
 +++
 
 ## {{< param title >}}
-
+TODO: Change
 Times are in Singapore Time (SGT, GMT+8). Please [remember to convert to your timezone](https://www.worldtimeserver.com/convert_time_in_SG.aspx).
 
 | **Time**		 | **Title** 				    | **Who**	 			|
