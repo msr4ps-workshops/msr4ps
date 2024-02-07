@@ -4,21 +4,26 @@ weight = 40
 +++
 
 ## {{< param title >}}
-TODO: Change
-Times are in Singapore Time (SGT, GMT+8). Please [remember to convert to your timezone](https://www.worldtimeserver.com/convert_time_in_SG.aspx).
+
 
 | **Time**		 | **Title** 				    | **Who**	 			|
 |:--			 |:--							|:--		 			|
-| 9:00am		 | _Welcome_					| MSR2P&S Organisers	|
-| 9:10am		 | Opening Keynote              | Prof. Ali Babar (introduced by N. Diaz-Ferreyra)		|
-| 10:00am		 | _Break_	                    |						|
-| 10:30am		 | Session 1: Assessing Privacy | W1, W2 (Chair: Z. Codabux)	|
-| 11:00am		 | Session 2: Vulnerabilities	| W3, W4, W5 (Chair: M. Vidoni)			|
-| 12:00pm		 | _Closing, End of MSR2P&S_	| MSR2P&S Organisers	|
+| 9:00am		  | _Welcome_					                           | MSR4P&S Organisers	|
+| 9:10am		  | Opening Keynote                          | T.B.A		|
+|           | **SESSION 1: Threats and Risk Assessment** |        |
+| 10:00am		 | W1: Managing Security Vulnerabilities Introduced by Third-Party Dependencies in JavaScript Applications	|						|
+| 10:20am   | W2: Automating Static Code Analysis Through CI/CD Pipeline Integration |      |
+| 10:40am   | W3: Finding Privacy-relevant Source Code | |
+| 11:00am   | _COFFEE BREAK_ ||
+|           | **SESSION 2: Privacy and Security Analysis** |        |
+| 11:45am		 | W4: Finding a Needle in a Haystack: Threat Analysis in Open-Source Projects | 	|
+| 12:00pm		 | W5: Assessing Security Risks of Software Supply Chains Using Software Bill of Materials |  |
+| 12:20pm		 | _Closing, End of MSR4P&S_	| MSR4P&S Organisers	|
 
 
 <!---
-
+We reserved for you the slot from 9:00 to 13:00.
+The lunch (buffet) is served from 12:30 and finishes at 14:00.
 
 
 
@@ -37,12 +42,10 @@ Software repositories are an attractive source of data for understanding the bur
 
 ### Accepted Papers
 
-For speaker information, see [ESEC/FSE's Information](https://2022.esec-fse.org/attending/speaker-info).
-
-| **#** | **Authors**                     | **Title/Preprint Link** |
-| :--   | :--                             | :--                     |
-| W1 | Anastasia Terzi and Matina Bibi | Managing Security Vulnerabilities Introduced by Third-Party Dependencies in JavaScript Applications |
-| W2 | Zachary Wadhams, Ann Marie Reinhold and Clemente Izurieta | Automating Static Code Analysis Through CI/CD Pipeline Integration |
-| W3 | Feiyang Tang and Bjarte M. Østvold | Finding Privacy-relevant Source Code |
-| W4 | Bernd Gruner, Sebastian Thomas Heckner, Tim Sonnekalb, Badr-Eddine Bouhlal and Clemens-Alexander Brust | Finding a Needle in a Haystack: Threat Analysis in Open-Source Projects |
-| W5 | Eric O'Donoghue, Ann Marie Reinhold and Clemente Izurieta | Assessing Security Risks of Software Supply Chains Using Software Bill of Materials |
+| **#** | **Authors**                     | **Title/Preprint Link** | **Paper Lenght** |
+| :--   | :--                             | :--                     | :-- |
+| W1 | Anastasia Terzi and Matina Bibi | Managing Security Vulnerabilities Introduced by Third-Party Dependencies in JavaScript Applications | full paper |
+| W2 | Zachary Wadhams, Ann Marie Reinhold and Clemente Izurieta | Automating Static Code Analysis Through CI/CD Pipeline Integration | full paper |
+| W3 | Feiyang Tang and Bjarte M. Østvold | Finding Privacy-relevant Source Code | full paper |
+| W4 | Bernd Gruner, Sebastian Thomas Heckner, Tim Sonnekalb, Badr-Eddine Bouhlal and Clemens-Alexander Brust | Finding a Needle in a Haystack: Threat Analysis in Open-Source Projects | short paper |
+| W5 | Eric O'Donoghue, Ann Marie Reinhold and Clemente Izurieta | Assessing Security Risks of Software Supply Chains Using Software Bill of Materials | full paper |
