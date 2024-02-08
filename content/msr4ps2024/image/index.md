@@ -14,7 +14,7 @@ weight = 40
 |           | **SESSION 2: Threats and Risk Assessment (10:00 - 11:00)** |  |
 | 10:00am		 | 📝 W1: Managing Security Vulnerabilities Introduced by Third-Party Dependencies in JavaScript Applications	|			T.B.A			|
 | 10:20am   | 📝 W2: Automating Static Code Analysis Through CI/CD Pipeline Integration |   T.B.A   |
-| 10:40am   | 📝 W3: Finding Privacy-relevant Source Code   | T.B.A |
+| 10:40am   | 📝 W3: Finding Privacy-relevant Source Code   | Bjarte M. Østvold |
 | 11:00am   | ☕ COFFEE BREAK  | |
 |           | **SESSION 3: Privacy and Security Analysis (11:45 - 12:30)** |  |
 | 11:45am		 | 📝 W4: Finding a Needle in a Haystack: Threat Analysis in Open-Source Projects | T.B.A	|
