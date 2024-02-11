@@ -1,5 +1,5 @@
 +++
-Title = "Workshop Program"
+Title = "Workshop Program (12.03.2024 - GMT+2 Time)"
 weight = 40
 +++
 
