@@ -13,7 +13,7 @@ weight = 40
 | 9:05am		  | 🎯 Opening Keynote | T.B.A		|
 |           | **SESSION 2:  Threats and Risk Assessment (9:55 - 10:30)** |  |
 | 9:55am    | 📝 W1: Assessing Security Risks of Software Supply Chains Using Software Bill of Materials | Eric O'Donoghue |
-| 10:10am		 | 📝 W2: Finding a Needle in a Haystack: Threat Analysis in Open-Source Projects | Bernd Gruner	|
+| 10:15am		 | 📝 W2: Finding a Needle in a Haystack: Threat Analysis in Open-Source Projects | Bernd Gruner	|
 | 10:30am   | ☕ COFFEE BREAK  | |
 |           | **SESSION 1: Privacy and Security Analysis (11:00 - 12:15)** |  |
 | 11:00am		 | 📝 W3: Managing Security Vulnerabilities Introduced by Third-Party Dependencies in JavaScript Applications	| Anastasia Terzi	|
