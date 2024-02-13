@@ -8,19 +8,18 @@ weight = 40
 
 | **TIME**		 | **TITLE** 				    | **PRESENTER**	 			|
 |:--			 |:--							|:--		 			|
-|           | **SESSION 1: Wellcome and Keynote Talk (9:00 - 10:00)** |  |
+|           | **SESSION 1: Wellcome and Keynote Talk (9:00 - 9:55)** |  |
 | 9:00am		  | ➡️ Welcome Message and Opening Remarks	     | MSR4P&S Organisers	|
-| 9:10am		  | 🎯 Opening Keynote | T.B.A		|
-|           | **SESSION 2: Threats and Risk Assessment (10:00 - 11:00)** |  |
-| 10:00am		 | 📝 W1: Managing Security Vulnerabilities Introduced by Third-Party Dependencies in JavaScript Applications	| Anastasia Terzi	|
-| 10:20am   | 📝 W2: Automating Static Code Analysis Through CI/CD Pipeline Integration | Zachary Wadhams |
-| 10:40am   | 📝 W3: Finding Privacy-Relevant Source Code   | Bjarte M. Østvold |
-| 11:00am   | ☕ COFFEE BREAK  | |
-|           | **SESSION 3: Privacy and Security Analysis (11:45 - 12:30)** |  |
-| 11:45am		 | 📝 W4: Finding a Needle in a Haystack: Threat Analysis in Open-Source Projects | Bernd Gruner	|
-| 12:00pm		 | 📝 W5: Assessing Security Risks of Software Supply Chains Using Software Bill of Materials | Eric O'Donoghue |
-| 12:20pm		 | ➡️ Closing Remarks, End of MSR4P&S	| MSR4P&S Organisers	|
-
+| 9:05am		  | 🎯 Opening Keynote | T.B.A		|
+|           | **SESSION 2:  Threats and Risk Assessment (9:55 - 10:30)** |  |
+| 9:55am    | 📝 W1: Assessing Security Risks of Software Supply Chains Using Software Bill of Materials | Eric O'Donoghue |
+| 10:10am		 | 📝 W2: Finding a Needle in a Haystack: Threat Analysis in Open-Source Projects | Bernd Gruner	|
+| 10:30am   | ☕ COFFEE BREAK  | |
+|           | **SESSION 1: Privacy and Security Analysis (11:00 - 12:15)** |  |
+| 11:00am		 | 📝 W3: Managing Security Vulnerabilities Introduced by Third-Party Dependencies in JavaScript Applications	| Anastasia Terzi	|
+| 11:20pm		 | 📝 W4: Automating Static Code Analysis Through CI/CD Pipeline Integration | Zachary Wadhams |
+| 11:40am   | 📝 W5: Finding Privacy-Relevant Source Code   | Bjarte M. Østvold |
+| 12:00pm		 | ➡️ Closing Remarks, End of MSR4P&S	| MSR4P&S Organisers	|
 
 <!---
 We reserved for you the slot from 9:00 to 13:00.
@@ -45,8 +44,10 @@ Software repositories are an attractive source of data for understanding the bur
 
 | **#** | **Authors**                     | **Paper Title** | **Paper Lenght** |
 | :--   | :--                             | :--                     | :-- |
-| W1 | Anastasia Terzi and Matina Bibi | Managing Security Vulnerabilities Introduced by Third-Party Dependencies in JavaScript Applications | full paper |
-| W2 | Zachary Wadhams, Ann Marie Reinhold and Clemente Izurieta | Automating Static Code Analysis Through CI/CD Pipeline Integration | full paper |
-| W3 | Feiyang Tang and Bjarte M. Østvold | Finding Privacy-Relevant Source Code | full paper |
-| W4 | Bernd Gruner, Sebastian Thomas Heckner, Tim Sonnekalb, Badr-Eddine Bouhlal and Clemens-Alexander Brust | Finding a Needle in a Haystack: Threat Analysis in Open-Source Projects | short paper |
-| W5 | Eric O'Donoghue, Ann Marie Reinhold and Clemente Izurieta | Assessing Security Risks of Software Supply Chains Using Software Bill of Materials | full paper |
+| W1 | Eric O'Donoghue, Ann Marie Reinhold and Clemente Izurieta | Assessing Security Risks of Software Supply Chains Using Software Bill of Materials | full paper |
+| W2 | Bernd Gruner, Sebastian Thomas Heckner, Tim Sonnekalb, Badr-Eddine Bouhlal and Clemens-Alexander Brust | Finding a Needle in a Haystack: Threat Analysis in Open-Source Projects | short paper |
+| W3 | Anastasia Terzi and Matina Bibi | Managing Security Vulnerabilities Introduced by Third-Party Dependencies in JavaScript Applications | full paper |
+| W4 | Zachary Wadhams, Ann Marie Reinhold and Clemente Izurieta | Automating Static Code Analysis Through CI/CD Pipeline Integration | full paper |
+| W5 | Feiyang Tang and Bjarte M. Østvold | Finding Privacy-Relevant Source Code | full paper |
+
+
