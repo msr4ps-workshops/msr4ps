@@ -15,7 +15,7 @@ weight = 40
 | 9:55am    | 📝 W1: Assessing Security Risks of Software Supply Chains Using Software Bill of Materials | Eric O'Donoghue |
 | 10:15am		 | 📝 W2: Finding a Needle in a Haystack: Threat Analysis in Open-Source Projects | Bernd Gruner	|
 | 10:30am   | ☕ COFFEE BREAK  | |
-|           | **SESSION 1: Privacy and Security Analysis (11:00 - 12:15)** |  |
+|           | **SESSION 3: Privacy and Security Analysis (11:00 - 12:15)** |  |
 | 11:00am		 | 📝 W3: Managing Security Vulnerabilities Introduced by Third-Party Dependencies in JavaScript Applications	| Anastasia Terzi	|
 | 11:20pm		 | 📝 W4: Automating Static Code Analysis Through CI/CD Pipeline Integration | Zachary Wadhams |
 | 11:40am   | 📝 W5: Finding Privacy-Relevant Source Code   | Bjarte M. Østvold |
