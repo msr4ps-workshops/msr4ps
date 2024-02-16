@@ -9,7 +9,7 @@ weight = 40
 | **TIME**		 | **TITLE** 				    | **PRESENTER**	 			|
 |:--			 |:--							|:--		 			|
 |           | **SESSION 1: Wellcome and Keynote Talk (9:00 - 9:55)** |  |
-| 9:00am		  | ➡️ Welcome Message and Opening Remarks	     | MSR4P&S Organisers	|
+| 9:00am		  | ➡️ Welcome Message and Opening Remarks	     | Nicolas E. Diaz Ferreyra	|
 | 9:05am		  | 🎯 Opening Keynote | T.B.A		|
 |           | **SESSION 2:  Threats and Risk Assessment (9:55 - 10:30)** |  |
 | 9:55am    | 📝 W1: Assessing Security Risks of Software Supply Chains Using Software Bill of Materials | Eric O'Donoghue |
@@ -19,7 +19,7 @@ weight = 40
 | 11:00am		 | 📝 W3: Managing Security Vulnerabilities Introduced by Third-Party Dependencies in JavaScript Applications	| Anastasia Terzi	|
 | 11:20pm		 | 📝 W4: Automating Static Code Analysis Through CI/CD Pipeline Integration | Zachary Wadhams |
 | 11:40am   | 📝 W5: Finding Privacy-Relevant Source Code   | Bjarte M. Østvold |
-| 12:00pm		 | ➡️ Closing Remarks, End of MSR4P&S	| MSR4P&S Organisers	|
+| 12:00pm		 | ➡️ Closing Remarks, End of MSR4P&S	| Nicolas E. Diaz Ferreyra	|
 
 <!---
 We reserved for you the slot from 9:00 to 13:00.
