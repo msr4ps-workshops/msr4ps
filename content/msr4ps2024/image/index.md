@@ -10,7 +10,7 @@ weight = 40
 |:--			 |:--							|:--		 			|
 |           | **SESSION 1: Wellcome and Keynote Talk (9:00 - 9:55)** |  |
 | 9:00am		  | ➡️ Welcome Message and Opening Remarks	     | Nicolas E. Diaz Ferreyra	|
-| 9:05am		  | 🎯 Opening Keynote | T.B.A		|
+| 9:05am		  | 🎯 Assessing the Scalability of Microservice Architectures | Andrea Janes (Free University of Bozen/Bolzano)		|
 |           | **SESSION 2:  Threats and Risk Assessment (9:55 - 10:30)** |  |
 | 9:55am    | 📝 W1: Assessing Security Risks of Software Supply Chains Using Software Bill of Materials | Eric O'Donoghue |
 | 10:15am		 | 📝 W2: Finding a Needle in a Haystack: Threat Analysis in Open-Source Projects | Bernd Gruner	|
@@ -22,23 +22,13 @@ weight = 40
 | 12:00pm		 | ➡️ Closing Remarks, End of MSR4P&S	| Nicolas E. Diaz Ferreyra	|
 
 <!---
-We reserved for you the slot from 9:00 to 13:00.
-The lunch (buffet) is served from 12:30 and finishes at 14:00.
 
-
-
-### Keynote: _MSR for Security--Data Quality Issues, Lessons from Trenches_
+### Keynote: _Assessing the Scalability of Microservice Architectures_
  
-Software repositories are an attractive source of data for understanding the burning security issues challenging developers, anecdotal solutions, and building AI/ML-based models and tools. That is why there is exponential growth in the literature based on mining software repositories for software security. While the abundance of freely available data for research is a fortune, the data quality issues can make software repositories minefields capable of blowing any time and effort budget for a project. Our group has been active in this area for the last few years to develop knowledge, understanding, and tools for improving software security by mining repositories. Through a mix of successful and failed efforts, we have experienced firsthand what is called “garbage in, garbage out” due to poor data quality. Without fully appreciating the data quality issues, starting a data-driven software security project can be frustrating and disheartening for a research team. We believe engaging the relevant stakeholders in developing and sharing knowledge and technologies to improve software security data quality is crucial. To this end, we are not only systematically identifying and synthesizing the existing empirical literature on improving data quality but also devising innovative solutions for addressing the data quality challenges while mining software repositories for software security. This talk will draw lessons and recommendations from our efforts of systematically reviewing the state-of-the-art and developing solutions for improving data quality while building knowledge, understanding, and tools for supporting software security. The talk will use a selected set of our studies to demonstrate the concrete cases of the challenges faced and the used workarounds to successfully continue our journey of learning and improving in this line of research and practice.
-
+Microservices have emerged as an architectural style for developing maintainable and scalable applications. Assessing the performance of architecture deployment configurations — e.g., with respect to deployment alternatives — is challenging and must be aligned with the system usage in the production environment. In this talk I present an approach for using operational profiles to generate load tests to automatically assess scalability pass/fail criteria of microservice configuration alternatives. The approach provides a domain-based metric for each alternative that can, for instance, be applied to make informed decisions about the selection of alternatives and to conduct production monitoring regarding performance-related system properties, e.g., anomaly detection. We have evaluated our approach using extensive experiments in a large bare metal host environment and a virtualized environment. The talk with briefly introduce the concept of microservices, present the deployment approach and the evaluation approach based on the open source tool locust.io; it will present the tool PPTAM used to conduct the experiments and the performed data analysis.
 
 {{< image-text src="image/alibabar.jpg" class= "left" >}}{{< /image-text >}}
-**[M. Ali Babar](http://malibabar.wordpress.com) is a Professor in the School of Computer Science, University of Adelaide, Australia.** He leads a theme on architecture and platform for security as service in [CyberSecurity Cooperative Research Centre](https://cybersecuritycrc.org.au ), a large initiative funded by the Australian government, industry, and research institutes.  Prior to joining the University of Adelaide, he was a Reader in Software Engineering with the School of Computing and Communication at Lancaster University, UK. After joining the University of Adelaide, Prof Babar established an interdisciplinary research centre called [CREST (Centre for Research on Engineering Software Technologies)](https://www.crest-centre.net ), where he directs the research and education activities of more than 30 researchers and engineers in the areas of Software Systems Engineering, Security and Privacy, and Social Computing. Professor Babar’s research team draws a significant amount of cash funding and in-kind resources from governmental and industrial organisations. Professor Babar has authored/co-authored more than 270 peer-reviewed research papers at premier Software journals and conferences. Professor Babar obtained a Ph.D. in Computer Science and Engineering from the school of computer science and engineering of University of New South Wales, Australia. He also holds a M.Sc. degree in Computing Sciences from University of Technology, Sydney, Australia.
-
-
--->
-
-
+**[Dr. Andrea Janes](https://ajanes.github.io) is an associate professor at the Free University of Bozen/Bolzano.** He was previously a senior lecturer and researcher at the FHV Vorarlberg University of Applied Sciences in Dornbirn, Austria, and a researcher at the Free University of Bozen/Bolzano, Italy. He received his master's degree in computer science from the Technical University of Vienna, Austria and the doctorate in computer science (with distinction) from the University of Klagenfurt (Austria). He holds a Master's degree in Business Informatics from the Vienna University of Technology and a PhD in Computer Science (with honors) from the University of Klagenfurt, Austria. He obtained the habilitation in Computer Science and Information processing systems. He is particularly interested in Lean and Agile approaches to software engineering, value-based software engineering, empirical software engineering, software testing, and technology transfer.
 
 ### Accepted Papers
 
