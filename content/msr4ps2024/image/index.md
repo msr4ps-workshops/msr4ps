@@ -10,7 +10,7 @@ weight = 40
 |:--			 |:--							|:--		 			|
 |           | **SESSION 1: Wellcome and Keynote Talk (9:00 - 9:55)** |  |
 | 9:00am		  | ➡️ Welcome Message and Opening Remarks	     | Nicolas E. Diaz Ferreyra	|
-| 9:05am		  | 🎯 Assessing the Scalability of Microservice Architectures | Andrea Janes (Free University of Bozen/Bolzano)		|
+| 9:05am		  | 🎯 Assessing the Scalability of Microservice Architectures | Andrea Janes		|
 |           | **SESSION 2:  Threats and Risk Assessment (9:55 - 10:30)** |  |
 | 9:55am    | 📝 W1: Assessing Security Risks of Software Supply Chains Using Software Bill of Materials | Eric O'Donoghue |
 | 10:15am		 | 📝 W2: Finding a Needle in a Haystack: Threat Analysis in Open-Source Projects | Bernd Gruner	|
