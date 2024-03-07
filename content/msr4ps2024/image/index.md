@@ -21,8 +21,6 @@ weight = 40
 | 11:40am   | 📝 W5: Finding Privacy-Relevant Source Code   | Bjarte M. Østvold |
 | 12:00pm		 | ➡️ Closing Remarks, End of MSR4P&S	| Nicolas E. Diaz Ferreyra	|
 
-<!---
-
 ### Keynote: _Assessing the Scalability of Microservice Architectures_
  
 Microservices have emerged as an architectural style for developing maintainable and scalable applications. Assessing the performance of architecture deployment configurations — e.g., with respect to deployment alternatives — is challenging and must be aligned with the system usage in the production environment. In this talk I present an approach for using operational profiles to generate load tests to automatically assess scalability pass/fail criteria of microservice configuration alternatives. The approach provides a domain-based metric for each alternative that can, for instance, be applied to make informed decisions about the selection of alternatives and to conduct production monitoring regarding performance-related system properties, e.g., anomaly detection. We have evaluated our approach using extensive experiments in a large bare metal host environment and a virtualized environment. The talk with briefly introduce the concept of microservices, present the deployment approach and the evaluation approach based on the open source tool locust.io; it will present the tool PPTAM used to conduct the experiments and the performed data analysis.
